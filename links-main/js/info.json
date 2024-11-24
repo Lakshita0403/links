@@ -1,0 +1,50 @@
+{
+  "background": {
+    "video": "video/bg.mp4",
+    "image": "images/bgimg.jpeg"
+  },
+  "userdetails": {
+    "userimage": "images/laks_img1.jpg",
+    "username": "Lakshita Garg",
+    "userbio": "A coder at heart, a tech enthusiast by passion, and a problem solver by nature!!"
+  },
+  "links": {
+    "Instagram": {
+      "href": "https://instagram.com/lakshitagarg_10",
+      "src": "images/icons/instagram.gif"
+    },
+    "Github": {
+      "href": "https://github.com/lakshita0403",
+      "src": "images/icons/github.gif"
+    },
+    "Linkedin": {
+      "href": "https://linkedin.com/in/lakshita-garg-002bb4244",
+      "src": "images/icons/linkedin.gif"
+    },
+    "Twitter": {
+      "href": "https://twitter.com/lakshitagarg6",
+      "src": "images/icons/twitter.gif"
+    },
+    "SnapChat": {
+      "href": "https://www.snapchat.com/add/lakshitagarg22?share_id=12pYPfcm4es&locale=en-US",
+      "src": "images/icons/snap.gif"
+    },
+    
+    "Buy Me A Coffee": {
+      "href": "https://www.buymeacoffee.com/lakshita_garg",
+      "src": "images/icons/coff.gif"
+    },
+    "Contact Me": {
+      "href": "mailto:lakshitagarg588@gmail.com",
+      "src": "images/icons/mail.gif"
+    }
+  },
+  "projects":{
+    "Links":"https://github.com/Lakshita0403/links",
+    "Tourism-website":"https://tourism-website-mocha-ten.vercel.app",
+    "Faculty Leave Management":"https://faculty-leave-management.vercel.app",
+    "Poornima Web":"https://lakshita0403.github.io/poornima-website/",
+    "Snake Game":"https://lakshita0403.github.io/snake_game/",
+    "Sociopedia":"https://socialpedia-ten.vercel.app"
+  }
+}
